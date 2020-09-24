@@ -37,7 +37,6 @@ page {
 
 /* 购物车有商品 */
 .cart_lists {
-  padding-top: 20rpx;
   width: 100%;
   background-color: #fff;
 }

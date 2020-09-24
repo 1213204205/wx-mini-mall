@@ -1,0 +1,35 @@
+/* pages/addr/addr.wxss */
+
+.block {
+    background: #fff;
+}
+
+.list_item {
+    display: flex;
+    align-items: center;
+    border-top: 1px solid #efefef;
+    padding: 35rpx 30rpx;
+}
+
+.list_item .title {
+    margin-right: 20rpx;
+    font-size: 28rpx;
+}
+
+.list_item .input {
+    flex: 1;
+}
+
+.input input {
+    font-size: 28rpx;
+    color: #333;
+}
+
+.btn_box {
+    margin-top: 64rpx;
+    padding: 0 30rpx;
+}
+.button.type_org{
+    color: #fff;
+    background: #FE0023;
+}

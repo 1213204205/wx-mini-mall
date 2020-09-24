@@ -7,8 +7,8 @@
       <view class="text">
         <text>购物车还是空的</text>
       </view>
-      <view class="navIndex">
-        <text bindtap="goIndex">到小米商城逛逛</text>
+      <view class="navIndex" bindtap="goIndex">
+        <text>到数码商城逛逛</text>
       </view>
     </view>
   </block>

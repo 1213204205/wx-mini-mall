@@ -6,25 +6,27 @@ Page({
     imgUrls: [
       '../../images/banner/1.jpg',
       '../../images/banner/2.jpg',
-      '../../images/banner/3.jpg'
+      '../../images/banner/3.jpg',
+      '../../images/banner/4.jpg',
+      '../../images/banner/5.jpg'
     ],
     menu: [{
-        icon: '../../images/手机 (1).png',
-        text: '手机'
-      }, {
-        icon: '../../images/电视.png',
-        text: '电视'
-      }, {
-        icon: '../../images/电脑.png',
-        text: '电脑'
-      }, {
-        icon: '../../images/智能场控.png',
-        text: '智能'
-      }, {
-        icon: '../../images/家电.png',
-        text: '家电'
-      }
-    ],
+      icon: '../../images/nav/phone.png',
+      text: '手机'
+    }, {
+      icon: '../../images/nav/tv.png',
+      text: '电视'
+    }, {
+      icon: '../../images/nav/computer.png',
+      text: '电脑'
+    }, {
+      icon: '../../images/nav/router.png',
+      text: '智能'
+    }, {
+      icon: '../../images/nav/news.png',
+      text: '新品'
+    }
+  ],
     goodList: [],
     first: {},
   },
