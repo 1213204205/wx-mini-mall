@@ -15,7 +15,7 @@
 
 
 	<view class="item flex">
-		<image src="../../images/订单.png" class="image" />
+		<image src="../../images/icon/order.png" class="image" />
 		<text>我的订单</text>
 	</view>
 
@@ -25,7 +25,7 @@
 	</view>
 
 	<view class="set flex">
-		<image src="../../images/设 置.png" class="image" />
+		<image src="../../images/icon/setting.png" class="image" />
 		<text>设置</text>
 	</view>
 </view>

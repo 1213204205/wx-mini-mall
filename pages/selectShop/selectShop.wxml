@@ -60,7 +60,7 @@
             <view class='service_item'>
                <view class='{{soHave?".active":""}}' bindtap='sOne'>意外保障服务 179.00元 </view>
                <view wx:if="{{soHave}}">
-                  <image src="../../images/success.png" class="image-success" bindtap='sOne'/>
+                  <image src="../../images/icon/success.png" class="image-success" bindtap='sOne'/>
                   <text >我已阅读</text>
                   <navigator hover-class="none">服务条款</navigator>|
                   <navigator hover-class="none">常见问题</navigator>
@@ -69,7 +69,7 @@
             <view class='service_item'>
                <view class='{{stHave?".active":""}}' bindtap='sTwo'>碎屏保障服务 99.00元 </view>
                <view wx:if="{{stHave}}">
-                  <image src="../../images/success.png" class="image-success" bindtap='sTwo'/>
+                  <image src="../../images/icon/success.png" class="image-success" bindtap='sTwo'/>
                   <text>我已阅读</text>
                   <navigator hover-class="none">服务条款</navigator>|
                   <navigator hover-class="none">常见问题</navigator>

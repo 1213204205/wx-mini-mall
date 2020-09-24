@@ -7,9 +7,10 @@
 ## 项目截图
 
 <figure class="half">
-    <img src="./images/screenshot/1.png"  width="300" height="550">
+    <img src="./images/screenshot/1.png" width="300" height="550">
     <img src="./images/screenshot/2.png" width="300" height="550">
     <img src="./images/screenshot/3.png" width="300" height="550">
     <img src="./images/screenshot/4.png" width="300" height="550">
+    <img src="./images/screenshot/5.png" width="300" height="550">
 </figure>
 

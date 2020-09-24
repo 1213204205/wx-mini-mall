@@ -77,7 +77,7 @@
 <!-- 底部固定导航 -->
 <view class="shopping">
   <view class="shopping-img" bindtap="goCart">
-    <image class="image-icon1" src="../../images/detail/6.png" />
+    <image class="image-icon-shop" src="../../images/detail/6.png" />
     <text wx:if="{{allNum != 0}}">{{allNum}}</text>
   </view>
   <view class="addToCart" bindtap="goSelectGoods">加入购物车
